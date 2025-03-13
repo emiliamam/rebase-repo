@@ -1,1 +1,1 @@
-Свод правил!
+git test so fun
